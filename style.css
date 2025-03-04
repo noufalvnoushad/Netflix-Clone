@@ -33,6 +33,12 @@ nav img
   background: rgb(193,17,25);
 }
 /*   Hero Section   */
+
+.hero-container {
+  background-image: url('images/headerimage.jpeg');
+  background-position: center;
+}
+
 .hero-title
 {
   font-size: 3rem;
