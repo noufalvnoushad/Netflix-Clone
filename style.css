@@ -10,7 +10,7 @@ body
 }
 header
 {
-background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url(/images/headerimage.jpeg);
+background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url(images/headerimage.jpeg);
 background-size: cover;
 background-position: 50%;
 height: 90vh;
@@ -34,10 +34,6 @@ nav img
 }
 /*   Hero Section   */
 
-.hero-container {
-  background-image: url('images/headerimage.jpeg');
-  background-position: center;
-}
 
 .hero-title
 {
